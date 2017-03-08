@@ -1,0 +1,9 @@
+﻿  Document.cpp
+  Generating Code...
+i:\owncloud\programovani\c++\fekt\bscp\projekt\projekt\document.cpp(25): warning C4715: 'Document::operator=': not all control paths return a value
+  Compiling...
+  Tag.cpp
+  Projekt.cpp
+  Generating Code...
+i:\owncloud\programovani\c++\fekt\bscp\projekt\projekt\tag.cpp(110): warning C4715: 'Tag::getAttribute': not all control paths return a value
+  Projekt.vcxproj -> I:\OwnCloud\Programovani\C++\FEKT\BSCP\Projekt\Debug\Projekt.exe
